@@ -3,9 +3,9 @@
 ## 📌 Project Overview
 
 This project builds and analyzes an **E-Commerce database** using the publicly available **Olist dataset**.
-The goal is to extract meaningful **business insights** using SQL, including revenue trends, top product categories, order patterns, delivery performance, and customer behavior. ([GitHub][1])
+The goal is to extract meaningful **business insights** using SQL, including revenue trends, top product categories, order patterns, delivery performance, and customer behavior. 
 
-This analysis is done entirely using **PostgreSQL (or another SQL engine)** with multiple analytical queries written in `Analysis.sql`. ([GitHub][2])
+This analysis is done entirely using **PostgreSQL (or another SQL engine)** with multiple analytical queries written in `Analysis.sql`. 
 
 ---
 
